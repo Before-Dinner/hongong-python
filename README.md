@@ -12,17 +12,20 @@
   </tr>
   <tr>
     <td rowspan=2> chapter1 </td>
-    <td> test1 </td>
-    <td> 2024-02-26 </td>
+    <td><a href=""> 🧗‍♂️ </a></td>
+    <td> 🗓️ 2024-02-26 </td>
   </tr>
   <tr>
-    <td> test2 </td>
+    <td><a href=""> 🐣 </a></td>
+    <td> 🗓️ 2024-02-26 </td>
   </tr>
   <tr>
     <td rowspan=2> chapter2 </td>
-    <td> test1 </td>
+    <td><a href=""> 🧗‍♂️ </a></td>
+    <td> 🗓️ 2024-02-27 </td>
   </tr>
   <tr>
-    <td> test2 </td>
+    <td><a href=""> 🐣 </a></td>
+    <td> 🗓️ 2024-02-27 </td>
   </tr>
 </table>
